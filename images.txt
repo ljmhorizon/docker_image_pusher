@@ -4,4 +4,11 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-dannicool/docker-wechatbot-webhook
+mysql:8.0.34
+postgres:14.8
+jenkins/jenkins:2.414.1-lts
+nginx:1.24.0
+redis:7.0.12
+rabbitmq:3.12.7-management
+prom/prometheus:v2.47.0
+grafana/grafana:10.1.5
